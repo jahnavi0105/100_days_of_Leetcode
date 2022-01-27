@@ -1,3 +1,4 @@
+//kadane's algorithm
 class Solution {
     public int maxSubArray(int[] nums) {
         int max=-10000000,s=0;
